@@ -14,8 +14,6 @@ Semester: Winter Semester
 
 Python
 
-I am using Python for this project. Python is a language that people use for lots of things like making websites working with data automating tasks and making artificial intelligence.
-
 📂 Project Structure
 
 This repository has five scripts:
