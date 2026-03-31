@@ -12,8 +12,6 @@ Semester: Winter Semester
 
 🧠 Selected Open Source Software
 
-Python
-
 📂 Project Structure
 
 This repository has five scripts:
